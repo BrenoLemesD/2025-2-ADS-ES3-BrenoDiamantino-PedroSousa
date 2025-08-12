@@ -1,10 +1,15 @@
-Projeto de Trabalho de Graduação
+# Projeto de Trabalho de Graduação
 
-Breno Otávio Lemes Diamantino e Pedro Henrique Sousa Cintra
+**Autores:**
+*   Breno Otávio Lemes Diamantino
+*   Pedro Henrique Sousa Cintra
 
-Engenharia de Software III
+**Disciplina:** Engenharia de Software III  
+**Professor:** Alessandro Fukuta  
+**Instituição:** Fatec Franca - SP
 
-Lista de artefatos
+---
 
-Professor Alessandro Fukuta
-Fatec Franca SP
+## Lista de Artefatos
+
+* Primeiro
