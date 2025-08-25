@@ -1,0 +1,74 @@
+========================================================================
+                      MISSÃO, VISÃO E VALORES
+========================================================================
+
+
+---------------------------------
+Missão (Propósito da Empresa)
+---------------------------------
+
+A missão do software é oferecer uma solução tecnológica completa e acessível
+para Organizações Não Governamentais (ONGs), facilitando a gestão de recursos,
+pessoas, projetos e parcerias. O objetivo é auxiliar as ONGs a terem maior
+organização administrativa e financeira, garantindo transparência em seus
+processos e fortalecendo a confiança junto a doadores, voluntários e
+beneficiários.
+
+Mais do que apenas um sistema de gestão, a missão é contribuir ativamente
+para que essas instituições possam dedicar menos tempo a tarefas
+burocráticas e mais tempo às suas causas sociais, potencializando o impacto
+positivo que geram na sociedade.
+
+
+---------------------------------
+Visão (Onde a Empresa Quer Chegar)
+---------------------------------
+
+A visão do software é se tornar referência nacional em soluções digitais
+voltadas para o terceiro setor, sendo reconhecido como uma ferramenta
+essencial para a sustentabilidade e crescimento das ONGs.
+
+A médio prazo, busca-se alcançar organizações de diferentes portes, desde
+pequenas iniciativas comunitárias até grandes fundações, proporcionando a
+todas um sistema eficiente e adaptável às suas realidades.
+
+A longo prazo, a visão é expandir o alcance para além das fronteiras
+nacionais, possibilitando que ONGs em diferentes países tenham acesso a uma
+tecnologia confiável que fortaleça a colaboração global em prol do
+desenvolvimento social e humano.
+
+
+---------------------------------
+Valores (Princípios a Serem Seguidos)
+---------------------------------
+
+* Transparência:
+  Assegurar clareza e integridade em todas as informações geradas pelo
+  sistema, apoiando a prestação de contas e fortalecendo a credibilidade
+  das ONGs.
+
+* Acessibilidade:
+  Desenvolver uma solução inclusiva, intuitiva e adaptada a diferentes
+  contextos sociais, garantindo que qualquer organização,
+  independentemente do porte, consiga utilizá-la.
+
+* Inovação:
+  Investir constantemente em novas funcionalidades e melhorias, buscando
+  sempre a modernização e a simplificação da gestão das ONGs.
+
+* Responsabilidade Social:
+  Manter o compromisso de apoiar instituições que promovem transformação
+  social, colocando o impacto positivo como prioridade central.
+
+* Colaboração:
+  Estimular o trabalho em rede, possibilitando a integração entre equipes
+  internas, voluntários, parceiros e comunidades atendidas.
+
+* Ética:
+  Pautar todas as práticas de desenvolvimento e operação do software pela
+  integridade, respeito e responsabilidade, garantindo confiança e
+  credibilidade junto às organizações.
+
+* Sustentabilidade:
+  Adotar práticas que incentivem o uso consciente de recursos e apoiem
+  iniciativas de desenvolvimento sustentável.

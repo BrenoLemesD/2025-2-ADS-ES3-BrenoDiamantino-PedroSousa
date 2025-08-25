@@ -1,0 +1,88 @@
+========================================================================
+Elicitacao de Requisitos: Versao Simplificada (MVP) da Plataforma de Gestao de ONGs
+========================================================================
+
+Este documento descreve os requisitos essenciais para a primeira versao
+da plataforma, focando nas funcionalidades criticas para um gerenciamento
+basico e rapido de implementar.
+
+
+---------------------------------
+Requisitos Funcionais (O que o sistema fara)
+---------------------------------
+
+1. Cadastro e Gestao de Usuarios
+---------------------------------
+
+  Pergunta: Como funcionara o cadastro da ONG e de seus membros?
+
+  Resposta: Havera apenas dois niveis de usuario:
+    * Administrador: O primeiro usuario que cadastra a ONG com seu CNPJ.
+      Ele tem controle total.
+    * Membro: Qualquer pessoa (funcionario ou voluntario) convidada pelo
+      Administrador. Eles se cadastram com nome, e-mail e CPF apos
+      receberem um link de convite. O administrador pode ver a lista de
+      membros e remover o acesso deles.
+
+
+2. Quadro de Tarefas Centralizado
+---------------------------------
+
+  Pergunta: Como a ONG organizara suas atividades do dia a dia?
+
+  Resposta: Existira um unico Quadro de Tarefas para toda a ONG, no
+  estilo Kanban, com tres colunas simples:
+    * A Fazer: O administrador cria as tarefas aqui, com um titulo e uma
+      descricao breve.
+    * Em Andamento: Membros podem "puxar" uma tarefa para esta coluna para
+      indicar que estao trabalhando nela.
+    * Concluido: Apos terminar, a tarefa e movida para ca.
+  O administrador podera atribuir uma tarefa a um membro especifico.
+
+
+3. Registro Financeiro Simplificado
+---------------------------------
+
+  Pergunta: Havera algum controle financeiro basico?
+
+  Resposta: Sim, um registro financeiro extremamente simples. Sera uma
+  unica tela onde o administrador podera lancar:
+    * Entradas: Descricao e valor (ex: "Doacao Empresa X", R$ 500,00).
+    * Saidas: Descricao e valor (ex: "Compra de material", R$ -80,00).
+  A tela exibira um saldo total atualizado. Nao havera relatorios
+  complexos, categorias ou exportacao nesta versao.
+
+
+---------------------------------
+Requisitos Nao Funcionais (Como o sistema funcionara)
+---------------------------------
+
+1. Usabilidade
+---------------------------------
+
+  Pergunta: Como sera a experiencia de uso?
+
+  Resposta: A interface sera limpa e objetiva, com foco total nas tres
+  funcionalidades principais (Gestao de Membros, Quadro de Tarefas e
+  Registro Financeiro). A navegacao sera direta para que qualquer pessoa
+  possa usar sem treinamento.
+
+
+2. Seguranca
+---------------------------------
+
+  Pergunta: Os dados estarao seguros?
+
+  Resposta: Sim. A seguranca e fundamental. O acesso sera protegido por
+  login e senha (que sera criptografada). A comunicacao com o servidor
+  usara HTTPS para proteger os dados em transito.
+
+
+3. Desempenho
+---------------------------------
+
+  Pergunta: O sistema sera rapido?
+
+  Resposta: Sim. Dado o escopo reduzido, o sistema sera projetado para
+  ser leve e agil, garantindo o carregamento rapido das telas de
+  tarefas e financas.
