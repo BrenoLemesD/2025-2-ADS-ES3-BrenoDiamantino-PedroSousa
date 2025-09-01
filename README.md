@@ -13,6 +13,13 @@
 
 ## Lista de Artefatos
 
-- MVV ---> Missão, Visão e Valor;
-- PR_RQ -> Documento com as perguntas e respostas para elicitação dos requisitos;
--
+Abaixo está a lista de todos os artefatos produzidos para este projeto, com os respectivos links para seus arquivos.
+
+- [Missão, Visão e Valor](./Artefatos/MVV/MVV.txt)
+- [Perguntas e Respostas para Elicitação dos Requisitos](./Artefatos/ElicitacaoRequisitos/PR_RQ.md)
+- [Documento de Requisitos](./Artefatos/Requisitos/Requisitos.md)
+- [Casos de Uso](./Artefatos/CasosDeUso/CasosDeUso.md)
+- [Diagramas UML](./Artefatos/Diagramas/Diagramas.md)
+- [Protótipos de Tela](./Artefatos/Prototipos/Prototipos.md)
+
+---
