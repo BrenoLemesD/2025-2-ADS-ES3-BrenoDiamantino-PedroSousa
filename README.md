@@ -15,11 +15,10 @@
 
 Abaixo está a lista de todos os artefatos produzidos para este projeto, com os respectivos links para seus arquivos.
 
-- [Missão, Visão e Valor](./Artefatos/MVV/MVV.txt)
-- [Perguntas e Respostas para Elicitação dos Requisitos](./Artefatos/ElicitacaoRequisitos/PR_RQ.md)
-- [Documento de Requisitos](./Artefatos/Requisitos/Requisitos.md)
-- [Casos de Uso](./Artefatos/CasosDeUso/CasosDeUso.md)
-- [Diagramas UML](./Artefatos/Diagramas/Diagramas.md)
-- [Protótipos de Tela](./Artefatos/Prototipos/Prototipos.md)
+- [Wireframes](./Artefatos/wireframes/)
+- [Missão, Visão e Valor](./Artefatos/MVV/)
+- [Elicitação de Requisitos](./Artefatos/PR_RQ/)
+- [Matriz SWOT](./Artefatos/Matriz_SWOT/)
+- [Matriz 5W2H](./Artefatos/5W2H/)
 
 ---
