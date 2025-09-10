@@ -20,5 +20,6 @@ Abaixo está a lista de todos os artefatos produzidos para este projeto, com os 
 - [Elicitação de Requisitos](./Artefatos/PR_RQ/)
 - [Matriz SWOT](./Artefatos/Matriz_SWOT/)
 - [Matriz 5W2H](./Artefatos/5W2H/)
+- [BPMN](./Artefatos//BPMN/)
 
 ---
