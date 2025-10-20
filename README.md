@@ -22,5 +22,6 @@ Abaixo está a lista de todos os artefatos produzidos para este projeto, com os 
 - [Matriz 5W2H](./Artefatos/5W2H/)
 - [BPMN](./Artefatos//BPMN/)
 - [Requisitos](./Artefatos/REQUISITOS/)
+- [TAP](./Artefatos/TAP/)
 
 ---
