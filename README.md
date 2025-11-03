@@ -23,5 +23,6 @@ Abaixo está a lista de todos os artefatos produzidos para este projeto, com os 
 - [BPMN](./Artefatos//BPMN/)
 - [Requisitos](./Artefatos/REQUISITOS/)
 - [TAP](./Artefatos/TAP/)
+- [EAP](./Artefatos/EAP/)
 
 ---
