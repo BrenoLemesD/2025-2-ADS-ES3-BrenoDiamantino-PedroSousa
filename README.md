@@ -24,5 +24,6 @@ Abaixo está a lista de todos os artefatos produzidos para este projeto, com os 
 - [Requisitos](./Artefatos/REQUISITOS/)
 - [TAP](./Artefatos/TAP/)
 - [EAP](./Artefatos/EAP/)
+- [Diagrama de Caso de Uso](./Artefatos/DiagramaCasoDeUso/)
 
 ---
